@@ -30,7 +30,6 @@
 }
 
 .menu__escolha-player {
-  /* background-color: tomato; */
   height: 100%;
   width: 100%;
   display: flex;
@@ -42,6 +41,7 @@
   color: white;
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
   font-size: 24px;
+  text-shadow: rgb(176, 174, 185) 0px 2px 3px;
 }
 
 .quadrado {
